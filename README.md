@@ -1,6 +1,3 @@
-# Pr-ctica-1
-Práctica conjunta
+# Práctica 1 
 
 
-Estoy probando, deberías poder ver esto
-Ya si
